@@ -1,0 +1,14 @@
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Wcf\WebApi\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Wcf\WebApi\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Wcf\WebApi\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Wcf\WebApi\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
